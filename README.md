@@ -1,4 +1,4 @@
-¡Órale, ya con esto sí! 🔥 Aquí tienes tu **README.md profesional** listo para pegar en el repo `Andrade-Yireel-PSSB-I-Colab-U1.`. Está en Markdown, con badges, tablas, emojis y estructura de nivel universitario/técnico.
+
 
 ---
 
