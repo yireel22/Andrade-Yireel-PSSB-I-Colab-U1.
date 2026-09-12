@@ -293,7 +293,7 @@ Se implementa típicamente con **tablas hash** para búsquedas en tiempo ~O(1).
 ## 📦 Entregables
 
 1. ✅ Cuaderno de Colab con todas las salidas ejecutadas
-2. ✅ Documento `ESPECIFICACION.docx` con la especificación del lenguaje
+2. ✅ Documento `ELYirs_Documento de propuesta.docx` con la especificación del lenguaje
 3. ✅ Registro en **Moodle** con los enlaces correspondientes
 
 ---
